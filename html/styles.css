@@ -1,0 +1,45 @@
+/* styles.css */
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .header_text {
+    color: #333;
+  }
+  
+  .gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0 10px; /* Dodajte ovu liniju kako biste dodali malo razmaka između dugmadi */
+  }
+  
+  #yesButton {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+  }
+  
+  #noButton {
+    background-color: #FF5733;
+    color: #fff;
+    border: none;
+  }
+  
+  
+  
